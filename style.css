@@ -1,0 +1,28 @@
+
+div{
+    color: rgb(193, 113, 130);
+    text-align: center;
+}
+h4{
+    background-color: rgb(213, 219, 224);
+}
+h2{
+    background-color: rgb(51, 48, 43);
+}
+h5{
+    background-color: rgb(34, 34, 29);
+}
+.btn{
+    border-radius: 5px;
+    background-image: linear-gradient(to left,rgb(14, 224, 224),rgb(4, 103, 146));  
+    color: white;
+    height: 30px;
+}
+#kural{
+    background-image: linear-gradient(to left,rgb(12, 81, 83),rgb(47, 169, 185));  
+    color: white;
+}
+h1{
+    color: rgb(16, 128, 146);
+    text-align: center;
+}
